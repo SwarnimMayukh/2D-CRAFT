@@ -13,3 +13,7 @@ function my_keydown(e){
 function up() {
     window.location = "https://swarnimmayukh.github.io/2D-Craft-My-First-Try-./";
 }
+
+setTimeout(function(){
+    window.location = "https://swarnimmayukh.github.io/2D-Craft-My-First-Try-./";
+},42000);
