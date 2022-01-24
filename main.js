@@ -5,7 +5,7 @@ function my_keydown(e){
     console.log(keyPressed);
     if(keyPressed == '38'){
         up();
-        console.log("up");
+        console.log("Let's play some games and have some fun !!..");
 
     }
 }
@@ -13,7 +13,3 @@ function my_keydown(e){
 function up() {
     window.location = "https://swarnimmayukh.github.io/2D-Craft-My-First-Try-./";
 }
-
-setTimeout(function(){
-    window.location = "https://swarnimmayukh.github.io/2D-Craft-My-First-Try-./";
-},42000);
