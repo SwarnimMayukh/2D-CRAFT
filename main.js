@@ -11,5 +11,9 @@ function my_keydown(e){
 }
 
 function up() {
-    window.location = "https://swarnimmayukh.github.io/2D-Craft-My-First-Try-./";
+    window.location.replace("https://swarnimmayukh.github.io/2D-Craft-My-First-Try-./");
 }
+
+setTimeout(function() {
+    window.location.replace("https://swarnimmayukh.github.io/2D-Craft-My-First-Try-./");
+},27800);
