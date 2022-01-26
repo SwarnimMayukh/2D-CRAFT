@@ -16,4 +16,4 @@ function up() {
 
 setTimeout(function() {
     window.location.replace("https://swarnimmayukh.github.io/2D-Craft-My-First-Try-./");
-},27000);
+},27800);
