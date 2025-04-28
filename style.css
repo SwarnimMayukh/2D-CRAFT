@@ -2,3 +2,11 @@ button {
     color: black;
     background-color: blue;
 }
+h1{
+    size: 100px;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+#center1{
+    visibility: hidden;
+}
